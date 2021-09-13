@@ -1,1 +1,9 @@
 Hi, Welcome.
+
+You can modify this website under MIT License, you can use my
+YouTube video's for free without any copyright issues, you can even
+monetise them too. My all projects are open-source & you can find projects
+source-code on GitHub. You can modify my projects for free, if you happy after
+reading this, than just read support.txt file.
+
+Thanks for reading this file, have a good day.
