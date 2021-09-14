@@ -1,1 +1,13 @@
+body {
+    background-color: white;
+}
 
+.cnameo {
+    display: inline;
+    color: #1CB5E0;
+}
+
+.cnames {
+    display: inline;
+    color: #000046;
+}
