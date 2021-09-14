@@ -2,12 +2,37 @@ body {
     background-color: white;
 }
 
-.cnameo {
+.firstname {
     display: inline;
     color: #1CB5E0;
 }
 
-.cnames {
+.lastname {
     display: inline;
     color: #000046;
+}
+
+.home {
+    text-align: center;
+  }
+
+.aboutme {
+    color: darkslategray;;
+}
+.onyoutube {
+    border-radius: 8px;
+    width: 72px;
+    height: 32px;
+}
+
+.ongithub {
+    border-radius: 8px;
+    width: 72px;
+    height: 32px;
+}
+
+.onemail {
+    border-radius: 8px;
+    width: 72px;
+    height: 32px;
 }
