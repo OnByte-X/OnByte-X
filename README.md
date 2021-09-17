@@ -1,6 +1,5 @@
 # OnByte X
-Ethical Hacking, Programming & important information about Linux.
-
+Ethical Hacking, Programming, Linux & Android.
 # Information
 If you want more information about this, read [information.txt](https://github.com/OnByte-X/OnByte-X/blob/main/information.txt) file.
 
